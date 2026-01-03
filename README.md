@@ -1,16 +1,92 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=846EF7&width=435&lines=Hi%2C+I'm+Fatima+Hadisova;Junior+frontend+developer)](https://git.io/typing-svg)
 
-<!--
-**Fatimehedisova/Fatimehedisova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2>Fatima Hadisova🤓</h2>
+<p align="left" style="margin-top: -10px; font-size: 14px; font-weight: 400;">
+  A junior frontend developer interested in modern frontend technologies
+</p>
+<img src="https://komarev.com/ghpvc/?username=Fatimehedisova&label=Profile%20views&color=orange&style=flat" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img align="right" height="150" src="https://media.tenor.com/MSlshZS6CVYAAAAM/satoru-gojo---correndo.gif"  />
+
+###
+
+###
+
+<h3>Connect with me:</h3>
+<div align="left">
+<a href="https://www.linkedin.com/in/fatimehedisova/" target="_blank">
+ <img src="https://www.svgrepo.com/show/157006/linkedin.svg" height="25" alt="LinkedIn logo" style="margin-right:12px;" /> </a>
+  
+<img width="12" />
+
+<a href="https://github.com/Fatimehedisova" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="25" alt="GitHub logo" /> </a>
+   
+<img width="12" />
+
+<a href="https://instagram.com/fatime_hedisova" target="_blank">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="25" alt="Instagram logo" />
+</a>
+
+<img width="12" />
+<a href="https://www.hackerrank.com/profile/fatimehedisova14" target="_blank">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="25" alt="Hackerrank logo" />
+</a>
+
+<img width="12" />
+<a href="https://discord.com/users/1347781969810948106" target="_blank">
+ <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="25" alt="Discord logo" />
+  </a>
+
+</div>
+
+
+
+
+<h3>Languages and Tools:</h3>
+
+<div align="left">
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="scss logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind css logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
+
+
+</div>
+
+
+
+
+<br clear="both">
+
+<img src="https://github.com/Fatimehedisova/Fatimehedisova/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
