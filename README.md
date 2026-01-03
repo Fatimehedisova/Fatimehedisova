@@ -18,8 +18,11 @@
 
 <h3>Connect with me:</h3>
 <div align="left">
-<a href="https://www.linkedin.com/in/fatimehedisova/" target="_blank">
- <img src="https://www.svgrepo.com/show/157006/linkedin.svg" height="25" alt="LinkedIn logo" style="margin-right:12px;" /> </a>
+<a href="https://www.linkedin.com/in/fatimehedisova/" 
+   target="_blank" 
+   rel="noopener noreferrer">
+  <img src="https://www.svgrepo.com/show/157006/linkedin.svg" height="25" />
+</a>
   
 <img width="12" />
 
@@ -54,7 +57,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
